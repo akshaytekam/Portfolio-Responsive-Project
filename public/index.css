@@ -191,12 +191,16 @@ body {
     justify-content: space-between;
     margin-bottom: 10px;
 }
+#para1{
+  font-size: 16px;
+}
 .sub-item-left {
-    font-size: small;
+    font-size: 14px;
     margin-right: 180px;
     padding: 0.5rem;
 }
 .sub-item-right {
+  font-size: 14px;
     font-size: 0.7rem;
     word-spacing: 10px;
 }
@@ -209,7 +213,7 @@ body {
 }
 .certi-title{
     text-align: center;
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 9px;
 }
 table {
